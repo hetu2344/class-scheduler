@@ -1,0 +1,8 @@
+# Ignore the bin directory
+bin/
+
+# Optionally, ignore other files and directories
+*.log
+*.tmp
+*.bak
+.DS_Store
