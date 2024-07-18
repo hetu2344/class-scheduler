@@ -1,0 +1,46 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore Maven target directory
+/target/
+
+# Ignore Gradle build directory
+/build/
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
+*.ipr
+*.iws
+
+# Ignore Eclipse project files
+/.settings/
+/.project
+/.classpath
+
+# Ignore VS Code settings
+/.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*.swp
+*~
+.*.swp
+
+# Ignore output directory
+/bin/
