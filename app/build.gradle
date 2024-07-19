@@ -23,7 +23,7 @@ java {
 }
 
 application {
-    mainClass.set('com.scheduler.persistence.setup.SetupDatabase') // Replace with your actual main class
+    mainClass.set('com.scheduler.application.Main') // Replace with your actual main class
 }
 
 tasks.withType(JavaCompile) {
