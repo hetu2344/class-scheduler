@@ -21,5 +21,5 @@ RUN tree /class-scheduler
 # Compile the Java application
 RUN javac -d bin/main/java src/main/java/com/scheduler/application/Main.java
 
-# Run the Java application with additional debugging information
-CMD ["java", "-cp", "bin/main/java:/class-scheduler/sqlite-jdbc.jar", "com.scheduler.application.Main"]
+# Run the Java application and keep the container running
+CMD ["sh", "-c", "java -cp bin/main/java:/class-scheduler/sqlite-jdbc.jar com.scheduler.application.Main"]

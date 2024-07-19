@@ -3,6 +3,7 @@ package com.scheduler.persistence.setup;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
+import java.util.Scanner;
 
 public class SetupDatabase {
     public static void main(String[] args) {
@@ -21,6 +22,10 @@ public class SetupDatabase {
             connection.close();
 
             System.out.println("Database setup complete!");
+
+            Scanner s = new Scanner(System.in);
+        String str = s.nextLine();
+        System.out.println("You entered: \'" + str + "\'");
 
         } catch (Exception e) {
             e.printStackTrace();

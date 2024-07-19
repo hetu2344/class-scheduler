@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  class-scheduler:
+    build: .
+    volumes:
+      - .:/class-scheduler
+    working_dir: /class-scheduler
+    ports:
+      - "5005:5005"

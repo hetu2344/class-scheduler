@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '7.1.2' // Ensure you're using the latest version of the Shadow plugin
+}
+
+group = 'com.example'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'org.xerial:sqlite-jdbc:3.41.2.1'
+    // Add your other dependencies here
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_18
+    targetCompatibility = JavaVersion.VERSION_18
+}
+
+application {
+    mainClass.set('com.scheduler.application.Main') // Replace with your actual main class
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.shadowJar {
+    archiveClassifier.set('')
+    // Add any configurations for your shadowJar task here
+}
+
+// Example of how to apply file permissions
+task copyFiles(type: Copy) {
+    from 'src/main/resources'
+    into 'build/resources/main'
+    fileMode = 0755 // Setting file permissions
+    dirMode = 0755  // Setting directory permissions
+}
