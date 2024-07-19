@@ -6,5 +6,7 @@ services:
     volumes:
       - .:/class-scheduler
     working_dir: /class-scheduler
+    command: ./gradlew shadowJar 
     ports:
-      - "5005:5005"
+      - "80"
+    
