@@ -1,12 +1,18 @@
-version: '3.9'
+version: '3.8'
 
 services:
-  class-scheduler:
-    build: .
-    volumes:
-      - .:/class-scheduler
-    working_dir: /class-scheduler
-    command: ./gradlew shadowJar 
+  mysql:
+    image: mysql:latest
+    container_name: mysql-container
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: my_database
+      MYSQL_USER: het
+      MYSQL_PASSWORD: hetu2344
     ports:
-      - "80"
-    
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+volumes:
+  mysql-data:

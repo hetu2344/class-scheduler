@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     implementation 'com.google.guava:guava:31.1-jre'
-    implementation 'org.xerial:sqlite-jdbc:3.41.2.1'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '5.1.13'
     // Add your other dependencies here
 }
 

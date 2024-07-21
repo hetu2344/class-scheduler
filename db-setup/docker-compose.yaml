@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: my-mysql-image
+    container_name: mysql_container
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: classes
+      MYSQL_USER: het
+      MYSQL_PASSWORD: hetu2344
+    volumes:
+      - ./db.sql:/docker-entrypoint-initdb.d/db.sql
