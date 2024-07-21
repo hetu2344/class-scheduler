@@ -1,25 +1,11 @@
-# Use the official OpenJDK 18 image as the base image
-FROM openjdk:18-jdk-slim
+# Use the official MySQL image from the Docker Hub
+FROM mysql:latest
 
-# Set the working directory inside the container
-WORKDIR /class-scheduler
+# Set environment variables
+ENV MYSQL_ROOT_PASSWORD=root_password
+ENV MYSQL_DATABASE=my_database
+ENV MYSQL_USER=new_user
+ENV MYSQL_PASSWORD=new_password
 
-# Install SQLite and tree
-RUN apt-get update && \
-    apt-get install -y sqlite3 libsqlite3-dev wget tree && \
-    rm -rf /var/lib/apt/lists/*
-
-# Add SQLite JDBC driver
-RUN wget -O /class-scheduler/sqlite-jdbc.jar https://github.com/xerial/sqlite-jdbc/releases/download/3.39.3.0/sqlite-jdbc-3.39.3.0.jar
-
-# Copy the current directory contents into the container at /class-scheduler
-COPY . /class-scheduler
-
-# Run tree to show the directory structure
-RUN tree /class-scheduler
-
-# Compile the Java application
-RUN javac -d bin/main/java src/main/java/com/scheduler/application/Main.java
-
-# Run the Java application and keep the container running
-CMD ["sh", "-c", "java -cp bin/main/java:/class-scheduler/sqlite-jdbc.jar com.scheduler.application.Main"]
+# Expose port 3306 to the host
+EXPOSE 3306

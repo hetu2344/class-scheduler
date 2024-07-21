@@ -14,7 +14,7 @@ ANTH 2430,A01 (50500),"Ecology, Technology and Society (3)",M,"Jan 06 - Apr 09, 
 ANTH 2470,A01 (64276),Media Anthropology (3),M,"Jan 06 - Apr 09, 14:30-17:15 (M)",Kathleen Buddle
 ANTH 2530,A01 (62113),Anthropology of Political Systems (3),M,"Jan 06 - Apr 09, 11:30-12:45 (TR)",Anna Fournier
 ANTH 2560,D01 (57368),Anthropology of Illness (3),DE,Jan 06 - Apr 09,Barbara Hewitt
-ANTH 2610,A01 (64280),Old World Civilizations (3),M,"Jan 06 - Apr 09, 13:00-14:15 (TR)",
+ANTH 2610,A01 (64280),Old World Civilizations (3),M,"Jan 06 - Apr 09, 13:00-14:15 (TR)",TBA
 ANTH 3200,A01 (64281),Anthropology of Food (3),M,"Jan 06 - Apr 09, 16:00-17:15 (TR)",Fabiana Li
 ANTH 3380,A01 (64282),Anthropology and Contemporary Social Issues (3),M,"Jan 06 - Apr 09, 13:00-14:15 (TR)",Warren Clarke
 ANTH 3600,A01 (64283),Archaeological Method and Theory (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Laura Kelvin
@@ -302,28 +302,28 @@ FREN 1154,A02 (52503),Introductory French 2 (3),M,"Jan 06 - Apr 09, 13:00-14:15 
 FREN 1154,A04 (52504),Introductory French 2 (3),M,"Jan 06 - Apr 09, 14:30-15:45 (TR)",Armelle St Martin
 FREN 1154,A03 (52505),Introductory French 2 (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Krysteena Gadzala
 FREN 1154,B03 (52507),Introductory French 2 (0),M,"Jan 06 - Apr 09, 11:30-12:20 (F)",TBA
-FREN 1154,B04 (54759),Introductory French 2 (0),M,"Jan 06 - Apr 09, 13:30-14:20 (W)",TBA
+FREN 1154,B04 (54759),IntroductoryFrench 2 (0),M,"Jan 06 - Apr 09, 13:30-14:20 (W)",TBA
 FREN 1154,B01 (52508),Introductory French 2 (0),M,"Jan 06 - Apr 09, 11:30-12:20 (W)",TBA
 FREN 1154,B02 (52506),Introductory French 2 (0),M,"Jan 06 - Apr 09, 11:30-12:20 (T)",TBA
 FREN 1154,A01 (54757),Introductory French 2 (3),M,"Jan 06 - Apr 09, 10:30-11:20 (MWF)",Andrew Osborne
-FREN 1194,A01 (64493),Français pour bilingues et francophones 2 (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Dominique Laporte
+FREN 1194,A01 (64493),Franï¿½ais pour bilingues et francophones 2 (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Dominique Laporte
 FREN 1204,A02 (64496),Intermediate French 2 (3),M,"Jan 06 - Apr 09, 10:30-11:20 (MWF)",Etienne-Marie Lassi
 FREN 1204,A01 (64495),Intermediate French 2 (3),M,"Jan 06 - Apr 09, 11:30-12:45 (TR)",Andrew Osborne
-FREN 1252,A01 (63157),Français oral 1 (3),M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Irene Chassaing
-FREN 2610,A01 (56009),Français oral 2 (A) (3),M,"Jan 06 - Apr 09, 10:30-11:20 (MWF)",Krysteena Gadzala
-FREN 2640,T03 (64497),Écrivains franco-manitobains contemporains (B) (3),M,"Jan 06 - Apr 09, 11:30-12:45 (TR)",Armelle St Martin
-FREN 3020,A01 (54763),Révision intensive de la grammaire française (A) (3),M,"Jan 06 - Apr 09, 12:30-13:20 (MWF)",Andrew Osborne
-FREN 3350,A01 (58726),Français oral 3 (A) (3),M,"Jan 06 - Apr 09, 13:30-14:20 (MWF)",Krysteena Gadzala
-FREN 3500,A01 (64498),Littérature du 17e siècle (B) (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
-FREN 3840,T07 (64891),Littérature et culture médiatique (B) (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
-FREN 3850,A01 (64500),"Civilisation canadienne-française (A, B, C) (3)",M,"Jan 06 - Apr 09, 13:00-14:15 (TR)",Dominique Laporte
-FREN 3920,A01 (64501),Enjeux majeurs en littératures francophones postcoloniales (B) (3),M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
-FREN 4620,T04 (64503),"Frontières, immigration, altérité (3)",M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
-FREN 4620,T05 (64892),Littérature et culture médiatique (B) (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
-FREN 4650,T01 (64504),Littérature du 17e siècle (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
-FREN 7520,T02 (64505),Littérature du 17e siècle (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
-FREN 7560,T08 (64507),"Frontières, immigration, altérité (3)",M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
-FREN 7560,T09 (64893),Littérature et culture médiatique (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
+FREN 1252,A01 (63157),Franï¿½ais oral 1 (3),M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Irene Chassaing
+FREN 2610,A01 (56009),Franï¿½ais oral 2 (A) (3),M,"Jan 06 - Apr 09, 10:30-11:20 (MWF)",Krysteena Gadzala
+FREN 2640,T03 (64497),ï¿½crivains franco-manitobains contemporains (B) (3),M,"Jan 06 - Apr 09, 11:30-12:45 (TR)",Armelle St Martin
+FREN 3020,A01 (54763),Rï¿½vision intensive de la grammaire franï¿½aise (A) (3),M,"Jan 06 - Apr 09, 12:30-13:20 (MWF)",Andrew Osborne
+FREN 3350,A01 (58726),Franï¿½ais oral 3 (A) (3),M,"Jan 06 - Apr 09, 13:30-14:20 (MWF)",Krysteena Gadzala
+FREN 3500,A01 (64498),Littï¿½rature du 17e siï¿½cle (B) (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
+FREN 3840,T07 (64891),Littï¿½rature et culture mï¿½diatique (B) (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
+FREN 3850,A01 (64500),"Civilisation canadienne-franï¿½aise (A, B, C) (3)",M,"Jan 06 - Apr 09, 13:00-14:15 (TR)",Dominique Laporte
+FREN 3920,A01 (64501),Enjeux majeurs en littï¿½ratures francophones postcoloniales (B) (3),M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
+FREN 4620,T04 (64503),"Frontiï¿½res, immigration, altï¿½ritï¿½ (3)",M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
+FREN 4620,T05 (64892),Littï¿½rature et culture mï¿½diatique (B) (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
+FREN 4650,T01 (64504),Littï¿½rature du 17e siï¿½cle (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
+FREN 7520,T02 (64505),Littï¿½rature du 17e siï¿½cle (3),M,"Jan 06 - Apr 09, 10:00-11:15 (TR)",Constance Cartmill
+FREN 7560,T08 (64507),"Frontiï¿½res, immigration, altï¿½ritï¿½ (3)",M,"Jan 06 - Apr 09, 11:30-12:20 (MWF)",Etienne-Marie Lassi
+FREN 7560,T09 (64893),Littï¿½rature et culture mï¿½diatique (3),M,"Jan 06 - Apr 09, 09:30-10:20 (MWF)",Dominique Laporte
 ITLN 1080,B02 (56008),Introductory Italian (Part B) (0),M,"Jan 06 - Apr 09, 10:00-10:50 (R)",TBA
 ITLN 1080,B03 (57307),Introductory Italian (Part B) (0),M,"Jan 06 - Apr 09, 18:00-18:50 (T)",TBA
 ITLN 1080,A01 (52510),Introductory Italian (Part B) (3),M,"Jan 06 - Apr 09, 11:30-12:45 (TR)",TBA
@@ -412,13 +412,13 @@ HIST 3910,D01 (59673),The Ukrainians in Canada (C) (3),DE,Jan 06 - Apr 09,TBA
 HIST 3990,T07 (63436),Global Feminisms (G) (Part B) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (R)",Jeong Kim
 HIST 4000,T44 (64395),Selected Topics in Twentieth Century British Social History (G) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (M)",Christopher Frank
 HIST 4000,T47 (64398),Critical Indigenous History (G) (3),M,"Jan 06 - Apr 09, 14:30-17:15 (T)",
-HIST 4000,T46 (64397),Health and Society in the 20th Century (G) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (W)",Esyllt Jones
+HIST 4000,T46 (64397),Health and Society in the 20thï¿½Century (G) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (W)",Esyllt Jones
 HIST 4000,T45 (64396),"Imperialism, Revolution, Democracy- Latin American History Since the Early Twentieth Century (G) (3)",M,"Jan 06 - Apr 09, 08:30-11:15 (T)",Jorge Nallim
 HIST 4320,A01 (64399),Studies in Modern World History (M) (Part B) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (T)",Jordan Howell
 HIST 7110,A01 (61030),Advanced Historical Methodologies (Part B) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (R)",David Churchill
 HIST 7382,A01 (62287),Archiving in the Digital Age (Part B) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (F)",Gregory Bak
 HIST 7772,T41 (64403),Critical Indigenous History (3),M,"Jan 06 - Apr 09, 14:30-17:15 (T)",
-HIST 7772,T40 (64402),Health and Society in the 20th Century (3),M,"Jan 06 - Apr 09, 11:30-14:15 (W)",Esyllt Jones
+HIST 7772,T40 (64402),Health and Society in the 20thï¿½Century (3),M,"Jan 06 - Apr 09, 11:30-14:15 (W)",Esyllt Jones
 HIST 7772,T39 (64401),"Imperialism, Revolution, Democracy- Latin American History Since the Early Twentieth Century (3)",M,"Jan 06 - Apr 09, 08:30-11:15 (T)",Jorge Nallim
 HIST 7772,T38 (64400),Selected Topics in Twentieth Century British Social History (3),M,"Jan 06 - Apr 09, 11:30-14:15 (M)",Christopher Frank
 HIST 7910,A01 (64404),Studies in Modern World History (Part B) (3),M,"Jan 06 - Apr 09, 11:30-14:15 (T)",Jordan Howell
@@ -2644,7 +2644,7 @@ EDUB 3332,G36 (53141),Senior Years: Practicum 2 (3),M,"Apr 07 - Apr 24, 08:30-16
 EDUB 3332,G36 (53141),Senior Years: Practicum 2 (3),M,"Mar 14 - Mar 28, 08:30-16:30 (MTWRF)",Jocelyn Peters
 EDUB 3406,A43 (64610),Indigenous Perspectives and the Curriculum (3),M,"Jan 07 - Mar 13, 13:30-15:20 (TR)",Amy Farrell-Morneau
 EDUB 3406,A42 (60889),Indigenous Perspectives and the Curriculum (3),M,"Jan 07 - Mar 13, 15:30-17:20 (TR)",TBA
-EDUB 3426,A40 (52934),La pédagogie de français de base aux niveaux intermédiare et de la jeune enfance (3),M,"Jan 07 - Mar 13, 10:30-12:20 (TR)",TBA
+EDUB 3426,A40 (52934),La pï¿½dagogie de franï¿½ais de base aux niveaux intermï¿½diare et de la jeune enfance (3),M,"Jan 07 - Mar 13, 10:30-12:20 (TR)",TBA
 EDUB 3502,T41 (64604),Professional Learning Through Narrative Inquiry (3),M,"Jan 07 - Mar 13, 15:30-17:20 (TR)",Yi Li
 EDUB 3506,A41 (59073),Principles and Procedures of Second Language Education (3),M,"Jan 08 - Mar 14, 13:30-15:20 (WF)",Sreemali Herath
 EDUB 3508,A40 (64603),Language and Content Instruction of EAL Students (3),M,"Jan 07 - Mar 13, 15:30-17:20 (TR)",TBA
@@ -2760,7 +2760,7 @@ CITY 7430,K01 (55218),Planning Design 3 (6),M,"Jan 06 - Apr 09, 08:30-11:15 (R)"
 CITY 7430,K01 (55218),Planning Design 3 (6),M,"Jan 06 - Apr 09, 13:00-17:15 (TR)",Richard Milgrom
 CITY 7440,A01 (63294),Planning Design 4 (Part B) (3),M,"Jan 06 - Apr 09, 13:00-16:00 (TR)",Sarah Cooper
 CITY 7470,A01 (50424),Professional Planning Practice (3),M,"Jan 06 - Apr 09, 18:00-21:50 (R)",TBA
-EVAR 3006,A01 (51257),"Architectural Technology 2 – Building Construction, Structures and Envelopes (3)",M,"Jan 06 - Apr 09, 08:30-11:15 (W)",Liane Veness
+EVAR 3006,A01 (51257),"Architectural Technology 2 ï¿½ Building Construction, Structures and Envelopes (3)",M,"Jan 06 - Apr 09, 08:30-11:15 (W)",Liane Veness
 EVAR 3010,A01 (51258),Architecture Design Studio 2 (9),M,"Jan 06 - Apr 09, 13:30-16:15 (MR)",Terri Fuglem
 EVAR 3010,A01 (51258),Architecture Design Studio 2 (9),M,"Jan 06 - Apr 09, 08:30-11:15 (MR)",Terri Fuglem
 EVAR 4006,A01 (54806),Modern History and Theory ll (3),M,"Jan 06 - Apr 09, 14:30-17:15 (W)",TBA
@@ -2835,7 +2835,7 @@ LAW 1102,A03 (61326),Contracts (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (F
 LAW 1102,A01 (57657),Contracts (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (F)",Bruce Curran
 LAW 1140,A01 (50997),Criminal Law and Procedure (Part B) (2.5),M,"Jan 06 - Apr 09, 14:00-16:50 (R)",Amar Khoday
 LAW 1140,A03 (62745),Criminal Law and Procedure (Part B) (2.5),M,"Jan 06 - Apr 09, 14:00-16:50 (R)",TBA
-LAW 1378,A01 (62099),Passeport du droit en Français (Part B) (0.5),M,"Jan 06 - Apr 09, 12:00-12:50 (F)",Martine Dennie
+LAW 1378,A01 (62099),Passeport du droit en Franï¿½ais (Part B) (0.5),M,"Jan 06 - Apr 09, 12:00-12:50 (F)",Martine Dennie
 LAW 1460,A03 (51001),Constitutional Law (Part B) (2.5),M,"Jan 06 - Apr 09, 14:00-15:50 (T)",Gillian MacNeil
 LAW 1460,A01 (50999),Constitutional Law (Part B) (2.5),M,"Jan 06 - Apr 09, 14:00-15:50 (T)",Elizabeth McCandless
 LAW 1480,A01 (51002),Torts and Compensation Systems (Part B) (2.5),M,"Jan 06 - Apr 09, 10:00-11:50 (T)",Martine Dennie
@@ -2846,7 +2846,7 @@ LAW 1500,A03 (51180),Property (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (R)
 LAW 1530,A01 (51495),Legal System (Part B) (1),M,"Jan 06 - Apr 09, 09:00-15:50 (W)",Elizabeth McCandless
 LAW 1540,A01 (51046),Legal Methods (Part B) (2.5),M,"Jan 06 - Apr 09,  (M)",Lorna Turnbull
 LAW 1540,A01 (51046),Legal Methods (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (M)",Lorna Turnbull
-LAW 1542,A01 (62098),Méthodes juridiques (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (M)",Tarik Daoudi
+LAW 1542,A01 (62098),Mï¿½thodes juridiques (Part B) (2.5),M,"Jan 06 - Apr 09, 09:00-11:50 (M)",Tarik Daoudi
 LAW 2020,A03 (63782),Legal Profession and Professional Responsibility (3),M,"Jan 06 - Apr 09, 09:00-11:50 (T)",Gillian MacNeil
 LAW 2378,A01 (63972),Passport Droit en Francais 2 (Part B) (0.5),M,"Jan 06 - Apr 09, 12:00-12:50 (F)",Martine Dennie
 LAW 2602,A02 (62936),Evidence (3),M,"Jan 06 - Apr 09, 13:00-15:50 (F)",TBA
@@ -2854,7 +2854,7 @@ LAW 2640,A02 (60213),Family Law (3),M,"Jan 06 - Apr 09, 13:00-15:50 (W)",Lorna T
 LAW 2650,A02 (51988),Introduction to Advocacy (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",Bryton Moen
 LAW 2650,A01 (51953),Introduction to Advocacy (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",Lisa Labossiere
 LAW 2650,A03 (51989),Introduction to Advocacy (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",
-LAW 2652,A04 (63849),Introduction à la plaidoirie (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",Michel Chartier
+LAW 2652,A04 (63849),Introduction ï¿½ la plaidoirie (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",Michel Chartier
 LAW 2672,A02 (62102),Civil Procedure (3),M,"Jan 06 - Apr 09, 14:00-16:50 (R)",Elizabeth McCandless
 LAW 2690,A02 (53319),Corporations I (3),M,"Jan 06 - Apr 09, 09:00-11:50 (F)",Yvan Larocque
 LAW 2700,A02 (52343),Income Tax Law and Policy (3),M,"Jan 06 - Apr 09, 09:00-11:50 (W)",Mary Gallant
@@ -2883,7 +2883,7 @@ LAW 3274,A01 (63847),Advanced Family Law (3),M,"Jan 06 - Apr 09, 09:00-11:50 (W)
 LAW 3334,A01 (63840),Global and Domestic Governance of Tainted Finance (3),M,"Jan 06 - Apr 09, 09:00-11:50 (R)",Mary Gallant
 LAW 3346,A01 (64430),Access to Justice (3),M,"Jan 06 - Apr 09, 09:00-11:50 (W)",Natasha Brown
 LAW 3354,A01 (60233),Moot Researcher (3),M,"Jan 06 - Apr 09, 13:00-13:50 (T)",TBA
-LAW 3372,A01 (64944),Français juridique - droit public (3),M,"Jan 06 - Apr 09, 18:00-20:50 (W)",Patricia Doyle
+LAW 3372,A01 (64944),Franï¿½ais juridique - droit public (3),M,"Jan 06 - Apr 09, 18:00-20:50 (W)",Patricia Doyle
 LAW 3378,A01 (63973),Passeport Droit en Francais 3 (Part B) (0.5),M,"Jan 06 - Apr 09, 12:00-12:50 (F)",Martine Dennie
 LAW 3380,A01 (64453),Issues in Law and Bio Ethics (3),M,"Jan 06 - Apr 09, 13:00-15:50 (M)",Mary Shariff
 LAW 3392,A01 (57668),Securities Law (3),M,"Jan 06 - Apr 09, 13:00-15:50 (W)",Donald Macdonald
