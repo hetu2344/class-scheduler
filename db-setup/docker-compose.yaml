@@ -2,8 +2,8 @@ version: '3.8'
 
 services:
   mysql:
-    image: my-mysql-image
-    container_name: mysql_container
+    image: classes-db
+    container_name: classes-db-container
     ports:
       - "3306:3306"
     environment:

@@ -1,18 +1,34 @@
+# version: '3.8'
+
+# services:
+#   mysql:
+#     image: mysql:latest
+#     container_name: mysql-container
+#     environment:
+#       MYSQL_ROOT_PASSWORD: root_password
+#       MYSQL_DATABASE: my_database
+#       MYSQL_USER: het
+#       MYSQL_PASSWORD: hetu2344
+#     ports:
+#       - "3306:3306"
+#     volumes:
+#       - mysql-data:/var/lib/mysql
+
+# volumes:
+#   mysql-data:
+
 version: '3.8'
 
 services:
   mysql:
-    image: mysql:latest
-    container_name: mysql-container
-    environment:
-      MYSQL_ROOT_PASSWORD: root_password
-      MYSQL_DATABASE: my_database
-      MYSQL_USER: het
-      MYSQL_PASSWORD: hetu2344
+    image: classes-db
+    container_name: classes-db-container
     ports:
       - "3306:3306"
-    volumes:
-      - mysql-data:/var/lib/mysql
-
-volumes:
-  mysql-data:
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: classes
+      MYSQL_USER: het
+      MYSQL_PASSWORD: hetu2344
+    # volumes:
+    #   - ./db.sql:/docker-entrypoint-initdb.d/db.sql

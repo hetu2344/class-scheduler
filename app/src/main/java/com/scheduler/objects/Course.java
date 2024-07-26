@@ -7,7 +7,7 @@ public class Course {
     private String title;
     private int crn;
     private String instructor;
-    private Time startTime, endTime;
+    private int startTime, endTime;
     private DayOfWeek[] days;
     private String section;
 
