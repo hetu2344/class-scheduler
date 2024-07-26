@@ -22,7 +22,7 @@ public class SetupDatabase {
             // tempMethod();
 
         } catch (PersistenceException pe) {
-            System.out.println(pe);
+            pe.printStackTrace();
         }
     }
 
@@ -44,19 +44,8 @@ public class SetupDatabase {
 
     private static void formatCSVFiles() throws PersistenceException {
         String[] outputArr = new String[8];
-        boolean checkDays = true;
 
-        try (Scanner in = new Scanner(new File("csv-files/fall-2024.csv"))) {
-            in.nextLine();
-            while (in.hasNextLine()) {
-                outputArr = getOutputArray(in.nextLine());
-                writeToSQLFile(convertToString(outputArr));
-            }
-        } catch (FileNotFoundException e) {
-            throw new PersistenceException("data files not found");
-        }
-
-        // try (Scanner in = new Scanner(new File("winter-2025(1).csv"))) {
+        // try (Scanner in = new Scanner(new File("csv-files/fall-2024.csv"))) {
         //     in.nextLine();
         //     while (in.hasNextLine()) {
         //         outputArr = getOutputArray(in.nextLine());
@@ -65,11 +54,21 @@ public class SetupDatabase {
         // } catch (FileNotFoundException e) {
         //     throw new PersistenceException("data files not found");
         // }
+
+        try (Scanner in = new Scanner(new File("winter-2025(1).csv"))) {
+            in.nextLine();
+            while (in.hasNextLine()) {
+                outputArr = getOutputArray(in.nextLine());
+                writeToSQLFile(convertToString(outputArr));
+            }
+        } catch (FileNotFoundException e) {
+            throw new PersistenceException("data files not found");
+        }
     }
 
 
     private static void writeToSQLFile(String dataValues) {
-        final String sql = "INSERT INTO Fall2024 (crn, section, title, course_code, instructor, start_time, end_time, days) VALUES ";
+        final String sql = "INSERT INTO Winter2025 (crn, section, title, course_code, instructor, start_time, end_time, days) VALUES ";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("db3.sql", true))) {
             
@@ -114,8 +113,11 @@ public class SetupDatabase {
             tempArr = tempArr[1].trim().split(" ");
             tempArr = tempArr[0].split("-");
             if (tempArr.length == 2) {
-                startTime = "\"" + tempArr[0].trim() + "\"";
-                endTime = "\"" + tempArr[1].trim() + "\"";
+                startTime = tempArr[0].trim();
+                startTime = startTime.substring(0, 2) + startTime.substring(3, 5);
+                endTime = tempArr[1].trim();
+                endTime = endTime.substring(0, 2) + endTime.substring(3, 5);
+
             } else {
                 startTime = "NULL";
                 endTime = "NULL";
